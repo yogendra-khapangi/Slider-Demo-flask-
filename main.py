@@ -14,10 +14,6 @@ def slider():
 def analytic():
     return render_template("Analytics.html")
 
-
-
-
-
 app.run(debug=True)
 
 
