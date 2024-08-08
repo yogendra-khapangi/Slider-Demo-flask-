@@ -26,9 +26,3 @@ app.run(debug=True)
 
 
 
-
-
-
-
-
-myname is yogendra khapanigi
